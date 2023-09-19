@@ -6,7 +6,7 @@ permalink: /pubs/
 
 A list of my published research.
 
-##First Author Publications
+## First Author Publications
 
-##Contributing Author Publications
+## Contributing Author Publications
 

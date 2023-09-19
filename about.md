@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Details about
+Details about research

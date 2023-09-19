@@ -5,4 +5,4 @@
 layout: home
 ---
 
-I am a Research Associate at the University of Cambridge. 
+I am a Research Associate at the University of Cambridge. My research focuses on measurements of the cosmology of the early universe and the first stars and development of novel Bayesian data analysis techniques to achieve these measurements.

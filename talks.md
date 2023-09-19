@@ -6,8 +6,8 @@ permalink: /talks/
 
 A list of talks and seminars I have given.
 
-##Invited Talks
+## Invited Talks
 
-##Conference Talks
+## Conference Talks
 
-##Internal Talks
+## Internal Talks
