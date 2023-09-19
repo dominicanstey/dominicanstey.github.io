@@ -16,14 +16,14 @@
 title: Dominic Anstey
 email: da401@cam.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Acedemic Person Site
+  Personal Site
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  dominicanstey
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-slate
+theme: minima
 plugins:
   - jekyll-feed
 
