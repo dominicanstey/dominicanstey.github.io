@@ -22,11 +22,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  dominicanstey
 
 # Build settings
-theme: jekyll-theme-slate
-remote_theme: pages-themes/slate@v0.2.0
+theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
