@@ -6,7 +6,7 @@ permalink: /about/
 
 I am a Research Associate at the University of Cambridge. My research focuses on measurements of the cosmology of the early universe and the first stars and development of novel Bayesian data analysis techniques to achieve these measurements.
 
-![REACH Experiment](/assets/REACH_graphic.gif){: style="width: 50%; float: right"}
+![REACH Experiment](/assets/REACH_graphic.gif){: style="width: 65%; float: right"}
 
 I have a particular focus on 21cm cosmology. This is a field of research that leverages the emission line of neutral hydrogen at 21cm in order to probe the history of the very early universe. Measuring the redshifted absorption or emission of this spectral line can reveal details both of the properties and behaviour of the very first stars and galaxies, as well as the cosmology and development of the early universe during the as-yet unexplored 'Dark Ages' before those first stars formed.
 
