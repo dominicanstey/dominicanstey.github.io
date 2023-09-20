@@ -35,7 +35,7 @@ A list of talks, seminars and posters I have presented.
 
 ## Internal Talks
 
-- June 2023. \textbf{Kavli Institute of Cosmology Focus Meeting on Astrostatistics \& Astro-Machine Learning}. Cambridge, UK. Oral Presenter, \textit{`Time-sensitive Anomaly Flagging through Likelihood Reweighting'}.
+- *Time-sensitive Anomaly Flagging through Likelihood Reweighting*. Kavli Institute of Cosmology Focus Meeting on Astrostatistics \& Astro-Machine Learning. Cambridge, UK. June 2023.
 
 - *Improving Foreground Modelling in Global 21cm Cosmology using Time-Dependant Data*. `The Early Universe (from Cosmic Dawn through the First Galaxies to the End of Reionization)', Kavli Science Focus Meeting. Cambridge UK. May 2022. 
 
