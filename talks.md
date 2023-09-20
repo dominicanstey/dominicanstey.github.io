@@ -14,7 +14,7 @@ A list of talks, seminars and posters I have presented.
 
 ## Conference Talks
 
-- [*Efficient Bayesian Modelling of Time Dependent RFI and Transient RFI in 21cm Experiments*](https://github.com/dominicanstey/Talks/blob/master/Talks/6th_global_workshop/Dominic_Anstey_6th_GW.pdf). \textbf{6th Global 21cm Workshop}. Trieste, Italy. September 2023. 
+- [*Efficient Bayesian Modelling of Time Dependent RFI and Transient RFI in 21cm Experiments*](https://github.com/dominicanstey/Talks/blob/master/Talks/6th_global_workshop/Dominic_Anstey_6th_GW.pdf). 6th Global 21cm Workshop. Trieste, Italy. September 2023. 
 
 - [*Modelling Beam Uncertainties in Global 21cm Experiments through Bayesian Data Analysis*](https://github.com/dominicanstey/Talks/blob/master/Talks/URSI_GASS_2023/URSI_talk.pdf). XXXV General Assembly and Scientific Symposium (GASS) of the International Union of Radio Science (Union Radio Scientifique Internationale-URSI). Sapporo, Japan. August 2023.
 
